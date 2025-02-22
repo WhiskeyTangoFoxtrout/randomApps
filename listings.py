@@ -9,6 +9,8 @@ livinListin = {'laptop':''}
 
 #ok so main function
 
+
+
 #im finna go get my shoppin list right
 #This my obj.method()/func()  app.name
 class app:#fuck idk how ima make this app I just need to holdmy shit oh I should type if I wanna append
@@ -20,7 +22,7 @@ class app:#fuck idk how ima make this app I just need to holdmy shit oh I should
 
         self.userAdditon = []
         self.mafffin = maffin 
-        maffin = userAdditon#bite me aint no pointers LMAOO
+        self.maffin = self.userAdditon#bite me aint no pointers LMAOO
         #bite me
         
         while text <= 64:
