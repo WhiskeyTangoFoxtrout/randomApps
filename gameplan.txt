@@ -1,0 +1,9 @@
+Needed headers:
+  +string
+  +stdio
+  +stdlib
+
+okso struct make bourders and accept Perphial input..Step1
++mo than  likely will have no cursor/mouse input . Just(Vim fuckin Vim)
+#I dont there is a need to create a window when C gives me a window but its stupid lookin got the header like its not my own OS
+
