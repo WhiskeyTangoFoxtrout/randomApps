@@ -7,3 +7,6 @@ okso struct make bourders and accept Perphial input..Step1
 +mo than  likely will have no cursor/mouse input . Just(Vim fuckin Vim)
 #I dont there is a need to create a window when C gives me a window but its stupid lookin got the header like its not my own OS
 
+how to write and save a file from user input:(why is programming actually hard...I get why they use APIs and Packages):
+  first need a functions to take the file name(usrNput) then (ig witha pointer) use the open function to create the file.
+  #idk how to make a dicetory yet. I guess a memory addr with file stored in like .txt or raw byte for it
