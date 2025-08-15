@@ -8,7 +8,6 @@ int main(){
 
     printf("Options:/n
             |(a)Files|   |(b)settings|   |(c) Exit|") //I have no idea how this gone work with out my own text or notepad app... ohk
-    fgets(2)
     scanf()
 
 }
